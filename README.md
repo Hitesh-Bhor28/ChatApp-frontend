@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+# 💬 Realtime Chat Application  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ **🔹 COMPANY:** CODTECH IT SOLUTIONS  
+ **🔹 NAME:** HITESH DNYANESHWAR BHOR   
+ **🔹 INTERN ID:** CT08OFU  
+ **🔹 DOMAIN:** MERN STACK DEVELOPMENT  
+ **🔹 DURATION:** 4 WEEKS  
+ **🔹 MENTOR:** NEELA SANTOSH 
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 **TASK DESCRIPTION**  
 
-### `npm start`
+The **Realtime Chat Application** is a feature-rich chat platform that allows users to communicate in real-time. The app is built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack** with **Socket.io** for live messaging.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Users can **create rooms, join rooms, send messages, and see active users in real-time.** The chat experience is enhanced with **typing indicators, message notifications, and a responsive UI.**  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔹 **Key Features of the Chat Application**  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **1️⃣ Create & Join Chat Rooms 🏠**  
+✔ Users can **create chat rooms** with unique names.  
+✔ Other users can **join existing rooms** and start chatting instantly.  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **2️⃣ Real-time Messaging 📩**  
+✔ Messages are **sent and received instantly** using **Socket.io**.  
+✔ The chat updates dynamically without refreshing the page.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **3️⃣ User List & Presence Indicator 👥**  
+✔ Users in a room can see a **list of active members**.  
+✔ Displays online/offline status for each user.  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **4️⃣ Typing Indicator ⌨️**  
+✔ Shows **“User is typing…”** when someone is composing a message.  
+✔ Provides a **more interactive chat experience**.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **5️⃣ Message Notifications 🔔**  
+✔ Users receive **real-time notifications** for new messages.  
+✔ Helps keep track of conversations.  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+### **6️⃣ Secure Authentication 🔐**  
+✔ Supports **user login/logout** for secure access.  
+✔ Ensures **privacy & security** of chat rooms.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔧 **Technologies Used**  
+- **Frontend:** React.js (CRA - Create React App)  
+- **Backend:** Node.js, Express.js (REST API)  
+- **Database:** MongoDB (Store user & chat data)  
+- **Real-time Communication:** Socket.io  
+- **Authentication:** JWT (JSON Web Tokens)  
+- **Styling:** Tailwind CSS / Styled Components  
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚀 **How the Chat App Works**  
+1️⃣ Users **sign in** to access chat features.  
+2️⃣ They can **create or join a chat room**.  
+3️⃣ Messages are sent & received **instantly** using **Socket.io**.  
+4️⃣ Users see **who’s online** and get **notifications** for new messages.  
+5️⃣ The chat interface **updates in real-time** without page refresh.  
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📌 **How to Run the Project**  
+1. Clone the **ChatApp Frontend**  
+   ```sh
+   git clone https://github.com/Hitesh-Bhor28/ChatApp-frontend.git
+   cd ChatApp-frontend
+   npm install
+2. Run the frontend  
+   ```sh
+   npm start
+3 Backend (Visit Repository) 
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🔗 Backend Repository:  
+If you haven't set up the backend yet:  
+  Clone the backend repo
+  Run npm install
+  Start the server with npm start
+---
+  
+## 📧 Contact Information 
+💼 Hitesh Bhor  
+📩 Email: hiteshbhor28@gmail.com  
+🔗 GitHub: https://github.com/Hitesh-Bhor28  
+🚀 LinkedIn: https://www.linkedin.com/in/hitesh-bhor/
