@@ -77,9 +77,10 @@ Users can **create rooms, join rooms, send messages, and see active users in rea
 ## 📌 **How to Run the Project**  
 ### **1️⃣ Clone the ChatApp Frontend**  
 ```sh
-git clone https://github.com/Hitesh-Bhor28/ChatApp-frontend.git
-cd ChatApp-frontend
-npm install
+   git clone https://github.com/Hitesh-Bhor28/ChatApp-frontend.git  
+   cd ChatApp-frontend  
+   npm install  
+---
 
 2. Run the frontend  
    ```sh
