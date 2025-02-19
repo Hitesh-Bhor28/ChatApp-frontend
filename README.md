@@ -83,7 +83,7 @@ Users can **create rooms, join rooms, send messages, and see active users in rea
 2. Run the frontend  
    ```sh
    npm start
-3. Backend Repository(visit) [https://github.com/Hitesh-Bhor28]
+3. Backend Repository(visit) : https://github.com/Hitesh-Bhor28
 
 ---
 
